@@ -14,8 +14,8 @@ import bd
 
 
 # Por informações do seu bot.########
-api_key = "5823779503:AAEBFeiPWNX1HWquW07zcIETB70uuSJSfmM"  # TOKEN DO SEU BOT
-chat_id = '-1001797642890'  # ID DO CANAL
+api_key =  # TOKEN DO SEU BOT
+chat_id =  # ID DO CANAL
 #####################################
 bot = telebot.TeleBot(token=api_key)
 analise_open = False
